@@ -31,15 +31,7 @@ import butterknife.ButterKnife;
 
 public class MovieDetailActivity extends AppCompatActivity {
     public static final String REVIEW_QUERY_KEY = "reviews";
-//    private ImageView poster;
-//    private TextView title;
-//    private TextView releaseDate;
-//    private TextView plot;
-//    private TextView rating;
-//    private TextView reviewTitle;
-//    private RatingBar ratingBar;
-//    private ExpandableHeightListView reviewList;
-//    private ProgressBar progressBar;
+    
     private long movieID;
     private final String MOVIE_ID = "id";
 
