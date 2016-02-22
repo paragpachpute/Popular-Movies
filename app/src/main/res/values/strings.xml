@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="api_key">94b7ce5a595aa7c3aab83bce0fb0db3d</string>
+    <string name="no_review">Reviews: \n currently no reviews.</string>
+    <string name="error_msg">Error Occurred...</string>
+    <string name="okay_msg">Okay</string>
+    <string name="retry_msg">Retry</string>
+    <string name="choose_filter">Filter By</string>
+</resources>
